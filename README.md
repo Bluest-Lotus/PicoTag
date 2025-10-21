@@ -12,3 +12,6 @@ An open-source lasertag project based on the rp2040 Raspberry pi pico microcontr
 - [Guides](SiteStuff/guides/index.md)
 
 <!--[Work-Analysis](SiteStuff/analysis.md)-->
+<!--https://hackaday.com/blog/?s=laser+tag
+https://neet2121.hatenablog.com/entry/2021/10/05/220916
+https://neet2121.hatenablog.com/entry/2020/01/12/025139-->
